@@ -17,8 +17,8 @@ ul {
 }
 
 hr {
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     border: 1px solid black;
 }
 
@@ -40,12 +40,12 @@ hr {
 }
 
 .header {
-    padding: 20px;
+    padding: 10px;
 }
 
 .small-column {
     position: absolute;
-    top: 125px;
+    top: 110px;
     left: 15px;
     max-width: 320px;
 }
@@ -56,23 +56,23 @@ hr {
 }
 
 .card {
-    padding: 15px;
+    padding: 12px;
     background-color: blue;
     color: white;
     max-width: 100%;
     box-shadow: 2px 2px 2px black;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     text-shadow: black 1px 1px;
 }
 
 .section-header {
     font-weight: bold;
-    font-size: 25px;
-    margin-bottom: 10px;
+    font-size: 20px;
+    margin-bottom: 5px;
 }
 
 .name {
-    font-size: 48px;
+    font-size: 45px;
     text-shadow: black 1px 1px;
 }
 
